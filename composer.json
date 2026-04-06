@@ -1,17 +1,19 @@
 {
-	"name": "plasticstudio/sitemap",
-    "type": "silverstripe-vendormodule",
-	"description": "Sitemap generating module for SilverStripe",
-	"keywords": ["silverstripe"],
-	"require": {
-		"silverstripe/cms": ">4.0",
-		"silverstripe/framework": ">4.0"
-	},
-    "extra": {
-        "installer-name": "sortablegridfield",
-		"expose": [
-            "css"
-        ]
-    },
-	"minimum-stability": "dev"
+  "name": "plasticstudio/sitemap",
+  "type": "silverstripe-vendormodule",
+  "description": "Sitemap generating module for SilverStripe",
+  "keywords": [
+    "silverstripe"
+  ],
+  "require": {
+    "silverstripe/cms": ">4.0",
+    "silverstripe/framework": ">4.0"
+  },
+  "extra": {
+    "installer-name": "sortablegridfield",
+    "expose": [
+      "css"
+    ]
+  },
+  "minimum-stability": "dev"
 }
